@@ -1,6 +1,6 @@
-# turtle-wallet
+# vlucash-wallet
 
-A GUI wallet for [TurtleCoin](https://github.com/turtlecoin/turtlecoin), based on `walletd`.
+A GUI wallet for [VluCash](https://github.com/VluCash/VluCash-Coin), based on `walletd`.
 
 ## Getting Started
 
